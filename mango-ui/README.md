@@ -1,6 +1,6 @@
-# y
+# mango-ui
 
-> y
+> mango-ui
 
 ## Build Setup
 
